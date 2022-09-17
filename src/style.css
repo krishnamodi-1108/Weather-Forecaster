@@ -11,10 +11,12 @@
   height: 100vh;
   text-align: center;
   font-family: 'Dosis', sans-serif;
+  background-size: 300%;
   background-image: linear-gradient(180deg, blue, #e52e71);
+  /* background-repeat: repeat; */
 }
 .heading {
-  margin-top: 50px;
+  margin-top: 20px;
   font-weight: 600px;
   font-size: 2rem;
   opacity: 0.8;
@@ -24,7 +26,7 @@
 .form {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 .form input {
   padding: 0 10px;
@@ -39,7 +41,7 @@
 }
 
 .card {
-  margin: 50px 0;
+  margin: 20px 0;
   border-radius: 4px;
   box-shadow: rgba(0, 0, 0, 0.024) 0px 0px 0px 1px,
     rgba(0, 0, 0, 0.05) 0px 1px 0px 0px, rgba(0, 0, 0, 0.03) 0px 0px 8px 0px,
