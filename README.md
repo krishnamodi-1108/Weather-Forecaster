@@ -1,12 +1,49 @@
-# Weather - Forecaster
+# Weather Forecaster
+
+Welcome to Weather Forecaster, a React app that utilizes an online weather API to showcase the current weather conditions of cities worldwide.
+
+## Overview
+
+Weather Forecaster is a web application built with ReactJS to provide users with real-time weather information. By leveraging a weather API, the app displays the current weather of selected cities, offering an intuitive and user-friendly experience.
+
+## Preview
+
+<!-- Add screenshots or GIFs to showcase the app's features -->
+![image](https://github.com/krishna-kusum/Weather-Forecaster/assets/59028548/e5e32e7a-7fe5-4c39-9c07-5a7ae49fa5fa)
 
 
-Weather Forecaster is a React app that uses an online weather API to depict current weather 
-of cities across the globe.
 
-<!-- Its light and user friendly interface makes it easy for anyone to follow across 
-and check weather report of any desired place. -->
+## Getting Started
 
-Go Ahead and have fun with this Web-App!
+1. **Deployed Link:**
+   Visit the deployed Weather Forecaster web app: [Weather Forecaster](https://your-deployed-link-here)
 
-# [Deployed Link here](https://stirring-cascaron-2b6caf.netlify.app/)
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/weather-forecaster.git
+   cd weather-forecaster
+   ```
+
+3. **Installation:**
+   ```bash
+   npm install
+   ```
+
+4. **Run the App:**
+   ```bash
+   npm start
+   ```
+
+5. **Open in Browser:**
+   Visit http://localhost:3000 in your web browser to explore the Weather Forecaster app.
+
+## Usage
+
+- Enter the names of cities to view their current weather conditions.
+- Have fun exploring the weather details and stay informed about different locations across the globe.
+
+Feel free to contribute, report issues, or suggest improvements. Happy forecasting!
+
+---
+
+Replace "your-deployed-link-here" with the actual link where you have deployed your Weather Forecaster app. You can add screenshots or GIFs below the "Screenshots" section to showcase the app's features. Customize the README to better suit your preferences or provide more details if needed.
