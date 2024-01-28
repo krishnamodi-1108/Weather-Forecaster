@@ -16,7 +16,7 @@ Weather Forecaster is a web application built with ReactJS to provide users with
 ## Getting Started
 
 1. **Deployed Link:**
-   Visit the deployed Weather Forecaster web app: [Weather Forecaster](https://your-deployed-link-here)
+   Visit the deployed Weather Forecaster web app: [Weather Forecaster](https://stirring-cascaron-2b6caf.netlify.app/)
 
 2. **Clone the Repository:**
    ```bash
@@ -44,6 +44,3 @@ Weather Forecaster is a web application built with ReactJS to provide users with
 
 Feel free to contribute, report issues, or suggest improvements. Happy forecasting!
 
----
-
-Replace "your-deployed-link-here" with the actual link where you have deployed your Weather Forecaster app. You can add screenshots or GIFs below the "Screenshots" section to showcase the app's features. Customize the README to better suit your preferences or provide more details if needed.
